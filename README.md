@@ -4,7 +4,7 @@ A tool that automates the creation of Software Restriction Polices
 ## Usage
 Python SRP_Automater.py
 
-The Script will ask you for binaries to block, just type in the exe name:
+The Script will ask you for binaries to block, just type in the exe name:  
 Example: cmd.exe
 
 When you're finished, type done. 
