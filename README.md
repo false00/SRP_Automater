@@ -4,6 +4,11 @@ A tool that automates the creation of Software Restriction Polices
 ## Usage
 Python SRP_Automater.py
 
+The Script will ask you for binaries to block, just type in the exe name:
+Example: cmd.exe
+
+When you're finished, type done. 
+
 ## How it Works
 SRP_Automater can be used to block binaries based on hashes. The script will query the filesystem for all instances of an executable and create Software Restriction Policies to block them. 
 
